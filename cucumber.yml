@@ -1,0 +1,1 @@
+default: -t @cadastrar,@editar,@deletar -f html -o html_report.html
